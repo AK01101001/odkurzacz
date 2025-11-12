@@ -1,3 +1,5 @@
+package com.example.uzodzenia;
+
 public class Odkurzacz extends Uzodzenie {
     protected boolean stan = false;
     public void On()

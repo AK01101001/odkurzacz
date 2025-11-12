@@ -1,3 +1,5 @@
+package com.example.uzodzenia;
+
 public class Pralka extends Uzodzenie{
     private int numerPrania =0;
     public void UstawProgramPrania(int programPrania)
